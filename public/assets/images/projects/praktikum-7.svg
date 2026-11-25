@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Thumbnail Praktikum 7">
+  <defs>
+    <clipPath id="card-p7"><rect x="36" y="36" width="728" height="428" rx="18"/></clipPath>
+  </defs>
+  <rect width="800" height="500" fill="#eef2f7"/>
+  <g clip-path="url(#card-p7)">
+    <rect x="36" y="36" width="728" height="428" fill="#ffffff"/>
+    <rect x="250" y="130" width="300" height="62" rx="8" fill="#e8eef5" stroke="#1b3a5c" stroke-width="5"/>
+    <rect x="250" y="219" width="300" height="62" rx="8" fill="#e8eef5" stroke="#1b3a5c" stroke-width="5"/>
+    <rect x="250" y="308" width="300" height="62" rx="8" fill="#e8eef5" stroke="#1b3a5c" stroke-width="5"/>
+    <path d="M400 192v27M400 281v27" stroke="#8fb6dd" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="400" cy="216" r="6" fill="#1b3a5c"/><circle cx="400" cy="305" r="6" fill="#1b3a5c"/>
+    <path d="M285 161h100M285 250h130M285 339h80" stroke="#8fb6dd" stroke-width="8" stroke-linecap="round"/>
+    <rect x="36" y="382" width="728" height="82" fill="#1b3a5c"/>
+  </g>
+  <rect x="36" y="36" width="728" height="428" rx="18" fill="none" stroke="#c8d7e6" stroke-width="2"/>
+  <text x="400" y="433" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="2" fill="#ffffff">PRAKTIKUM 7</text>
+</svg>

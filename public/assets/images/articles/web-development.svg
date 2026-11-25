@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Ilustrasi artikel Pengembangan Web">
+  <rect width="800" height="500" fill="#f7f5fb"/>
+  <rect x="40" y="40" width="720" height="420" rx="24" fill="#fff" stroke="#e6e0f0" stroke-width="2"/>
+  <rect x="150" y="110" width="500" height="280" rx="12" fill="#eee9f8" stroke="#8a73b8" stroke-width="4"/>
+  <path d="M150 158h500" stroke="#8a73b8" stroke-width="4"/>
+  <circle cx="180" cy="134" r="7" fill="#8a73b8"/><circle cx="205" cy="134" r="7" fill="#b7a5d8"/><circle cx="230" cy="134" r="7" fill="#d8cdea"/>
+  <path d="M210 230h-46l-38 46 38 46h46M590 230h46l38 46-38 46h-46M470 210l-80 132" fill="none" stroke="#8a73b8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#4a4358">Pengembangan Web</text>
+</svg>

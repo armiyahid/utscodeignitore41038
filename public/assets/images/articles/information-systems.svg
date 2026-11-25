@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Ilustrasi artikel Sistem Informasi">
+  <rect width="800" height="500" fill="#f7f5fb"/>
+  <rect x="40" y="40" width="720" height="420" rx="24" fill="#fff" stroke="#e6e0f0" stroke-width="2"/>
+  <rect x="100" y="170" width="150" height="110" rx="10" fill="#eee9f8" stroke="#8a73b8" stroke-width="4"/>
+  <rect x="325" y="170" width="150" height="110" rx="10" fill="#eee9f8" stroke="#8a73b8" stroke-width="4"/>
+  <rect x="550" y="170" width="150" height="110" rx="10" fill="#eee9f8" stroke="#8a73b8" stroke-width="4"/>
+  <path d="M250 225h75M400 225h75M550 225h-75" stroke="#8a73b8" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="175" cy="225" r="14" fill="#fff" stroke="#8a73b8" stroke-width="4"/>
+  <circle cx="400" cy="225" r="14" fill="#fff" stroke="#8a73b8" stroke-width="4"/>
+  <circle cx="625" cy="225" r="14" fill="#fff" stroke="#8a73b8" stroke-width="4"/>
+  <text x="400" y="440" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#4a4358">Sistem Informasi</text>
+</svg>
